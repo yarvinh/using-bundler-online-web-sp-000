@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 # gem "awesomeprint"
+gem "awesomeprint", git:'https://github.com/awesome-print/awesome_print'
 gem "rspec"
 # gem "sinatra", '1.4', '1.4.4'
 gem "sinatra", '1.4.4'
