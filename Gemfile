@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "awesomeprint"
+# gem "awesomeprint"
 gem "rspec"
 gem "sinatra"#, '>0', '>= 0'
 gem "hashie"
 gem "sinatra"
-# gem "octokit"
+ gem "octokit"
 #  gem "pry"
 
 
