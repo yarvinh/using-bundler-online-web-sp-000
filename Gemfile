@@ -5,8 +5,8 @@ gem "rspec"
 gem "sinatra"#, '>0', '>= 0'
 gem "hashie"
 gem "sinatra"
-gem "octokit"
- gem "pry"
+# gem "octokit"
+#  gem "pry"
 
 
 group :development do
