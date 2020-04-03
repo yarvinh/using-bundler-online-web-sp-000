@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # gem "awesomeprint"
 gem "rspec"
-gem "sinatra"#, '>0', '>= 0'
+gem "sinatra", '~>1.4.4', '>= 1.4.4'
 gem "hashie"
 gem "sinatra"
  gem "octokit"
